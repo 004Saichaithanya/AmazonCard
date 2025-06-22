@@ -11,6 +11,13 @@ To complete this challenge, I recreated a product card similar to those seen on 
 
 I used **flexbox** for alignment and applied **box shadows**, **padding**, and **hover transitions** to give the card a clean, modern feel. The card also includes a light `transform: translateY` effect on hover to mimic interactivity.
 
+
+### Output Screen:
+![image](https://github.com/user-attachments/assets/12656946-a7d6-4f00-a5f4-7bf0f6fca0b4)
+
+
+
+
 ### ⚙️ Tools and Tech:
 
 * HTML5 & CSS3
